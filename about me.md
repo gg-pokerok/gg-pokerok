@@ -1,3 +1,0 @@
-- 👋 Hi, im from Ukraine
-- 👀 Recently learned the basics of python and am now learning more complex things
-- 📫 If you want to chat, then write to me in telegram - @ludo_ed
